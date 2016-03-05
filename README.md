@@ -1,5 +1,5 @@
 # Android-Datepicker-Example
-An example of using the action bar to launch a datepicker. The action bar contains a button, styled as a spinner. This behaviour is often found in different apps like Google Maps, Google Calendar etc.
+An example of using the toolbar to launch a datepicker. The toolbar contains a button, styled as a spinner. This behaviour is often found in different apps like Google Maps, Google Calendar etc.
 
 Screenshot
 -------------
